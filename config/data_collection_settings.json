@@ -1,0 +1,18 @@
+[
+    {
+        "league": "Spain. La Liga",
+        "gameweek": 5
+    },
+    {
+        "league": "France. Ligue 1",
+        "gameweek": [3, 6]
+    },
+    {
+        "league": "Netherlands. Eredivisie",
+        "gameweek": [2, 8, 14]
+    },
+    {
+        "league": "Norway. Eliteserien",
+        "gameweek": [1, 6, 14, 18]
+    }
+]
